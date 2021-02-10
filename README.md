@@ -1,1 +1,1 @@
-# request-API-crypto
+# Aplicação para request em API da CoinMarketCap.
